@@ -1,0 +1,6 @@
+# Example .gitignore in nextjs-docker-deployment/
+# This is in addition to the .dockerignore inside app/
+app/node_modules/
+.env
+*.log
+nextjs-docker-deployment-with-mysql.tar.gz
